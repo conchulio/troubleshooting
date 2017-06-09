@@ -1,0 +1,121 @@
+\begin{thebibliography}{10}
+
+\bibitem{_measurement_????}
+{\em Measurement {Lab}}.
+\newblock http://www.measurementlab.net/.
+
+\bibitem{alexa_top_2016}
+{Alexa}.
+\newblock {\em Top {Sites} in {France}}.
+\newblock May 2016.
+\newblock http://www.alexa.com/topsites/countries/FR.
+
+\bibitem{andrea_denzler_true_2006}
+{Andrea Denzler}.
+\newblock {\em True {Ping}}.
+\newblock 2006.
+\newblock http://www.andreaplanet.com/tping/.
+
+\bibitem{carlson_network_????}
+R.~Carlson.
+\newblock {\em Network {Diagnostic} {Tool}}.
+
+\bibitem{dhawan_fathom:_2012}
+M.~Dhawan, J.~Samuel, R.~Teixeira, C.~Kreibich, M.~Allman, N.~Weaver, and
+  V.~Paxson.
+\newblock Fathom: {A} {Browser}-based {Network} {Measurement} {Platform}.
+\newblock In {\em Proc. {ACM} {IMC}}, 2012.
+
+\bibitem{dischinger_satellitelab:_2008}
+M.~Dischinger, A.~Haeberlen, I.~Beschastnikh, K.~P. Gummadi, and S.~Saroiu.
+\newblock {SatelliteLab}: {Adding} {Heterogeneity} to {Planetary}-{Scale}
+  {Testbeds}.
+\newblock In {\em Proc. {ACM} {SIGCOMM}}, 2008.
+
+\bibitem{groot_address_1996}
+G.~J.~d. Groot, Y.~Rekhter, D.~Karrenberg, and E.~Lear.
+\newblock Address {Allocation} for {Private} {Internets}, 1996.
+
+\bibitem{ieee_rfc4347:_????}
+{IEEE}.
+\newblock {\em {RFC}4347: {Datagram} {Transport} {Layer} {Security}}.
+
+\bibitem{ieee_rfc4960:_????}
+{IEEE}.
+\newblock {\em {RFC}4960: {Stream} {Control} {Transmission} {Protocol}}.
+
+\bibitem{k._drage_sdp-based_2016}
+{K. Drage}, {M. Makaraju}, {J. Stoetzer-Bradler}, {R. Ejzak}, and {J. Marcon}.
+\newblock {\em {SDP}-based {Data} {Channel} {Negotiation}}.
+\newblock 2016.
+
+\bibitem{kreibich_netalyzr:_2010-1}
+C.~Kreibich, N.~Weaver, B.~Nechaev, and V.~Paxson.
+\newblock Netalyzr: {Illuminating} {The} {Edge} {Network}.
+\newblock In {\em Proc. {ACM} {IMC}}, 2010.
+
+\bibitem{li_appraising_2013}
+W.~Li, R.~K.~P. Mok, R.~K.~C. Chang, and W.~W.~T. Fok.
+\newblock Appraising the {Delay} {Accuracy} in {Browser}-based {Network}
+  {Measurement}.
+\newblock In {\em Proc. {ACM} {IMC}}, 2013.
+
+\bibitem{node.js_node.js_2016}
+{Node.js}.
+\newblock {\em Node.js}.
+\newblock 2016.
+
+\bibitem{ookla_speedtest_????}
+{Ookla}.
+\newblock {\em Speedtest}.
+
+\bibitem{r._jesup_info:_2011}
+{R. Jesup}, {S. Loreto}, and {M. Tuexen}.
+\newblock {\em {INFO}: {Winsock} {TCP} {Connection} {Performance} to {Unused}
+  {Ports}}.
+\newblock Apr. 2011.
+\newblock https://support.microsoft.com/en-us/kb/175523.
+
+\bibitem{ripe_understanding_2015}
+{RIPE}.
+\newblock {\em Understanding {IP} {Addressing} and {CIDR} {Charts}}.
+\newblock 2015.
+
+\bibitem{ripe_ncc_ripe_????}
+{RIPE NCC}.
+\newblock {\em {RIPE} {Atlas}}.
+\newblock https://atlas.ripe.net/.
+
+\bibitem{sundaresan_bismark:_2014}
+S.~Sundaresan, S.~Burnett, W.~d. Donato, and N.~Feamster.
+\newblock {BISmark}: {A} {Testbed} for {Deploying} {Measurements} and
+  {Applications} in {Broadband} {Access} {Networks}.
+\newblock In {\em Proc. {USENIX} {ATC}}, 2014.
+
+\bibitem{sanchez_dasu:_2013}
+M.~A. Sánchez, J.~S. Otto, Z.~S. Bischof, D.~R. Choffnes, F.~E. Bustamante,
+  B.~Krishnamurthy, and W.~Willinger.
+\newblock Dasu: {Pushing} {Experiments} to the {Internet}'s {Edge}.
+\newblock In {\em Proc. {USENIX} {NSDI}}, 2013.
+
+\bibitem{w3c_cors_????}
+{W3C}.
+\newblock {\em {CORS}}.
+
+\bibitem{w3c_webrtc_????}
+{W3C}.
+\newblock {\em {WebRTC} {API}}.
+
+\bibitem{w3c_websocket_????}
+{W3C}.
+\newblock {\em {WebSocket} {API}}.
+
+\bibitem{w3c_xmlhttprequest_????}
+{W3C}.
+\newblock {\em {XMLHttpRequest} {API}}.
+
+\bibitem{zhang_iab_2010}
+L.~Zhang, G.~Lebovitz, and D.~Thaler.
+\newblock {IAB} {Thoughts} on {IPv}6 {Network} {Address} {Translation}, 2010.
+
+\end{thebibliography}

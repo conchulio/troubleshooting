@@ -1,0 +1,9 @@
+Package: Troubleshooting Statistics
+Title: Troubleshooting Statistics
+Version: 0.1
+Authors@R: person("Maximilian", "Bachl", email = "maximilian.bachl@gmail.com",
+                  role = c("aut", "cre"))
+Description: Troubleshooting Statistics
+Depends: R (>= 3.3.0)
+LazyData: false
+Imports: pequod, RInside, Rcpp, RJSONIO

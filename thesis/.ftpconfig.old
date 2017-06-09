@@ -1,0 +1,18 @@
+{
+    "protocol": "sftp",
+    "host": "137.194.165.181",
+    "port": 22,
+    "user": "muse",
+    "pass": "",
+    "promptForPass": true,
+    "remote": "/home/muse/max/troubleshooting-magic/code/",
+    "agent": "/tmp/agent.sock",
+    "privatekey": "",
+    "passphrase": "",
+    "hosthash": "",
+    "ignorehost": true,
+    "connTimeout": 10000,
+    "keepalive": 10000,
+    "keyboardInteractive": false,
+    "watch": []
+}

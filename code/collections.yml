@@ -1,0 +1,57 @@
+browsertest:
+  baseline:
+    :columns:
+    - id:
+      :source: _id
+      :type: TEXT
+    - os:
+      :source: platform
+      :type: TEXT
+    - browser:
+      :source: system_name
+      :type: TEXT
+    - ssid:
+      :source: networkenv.ssid
+      :type: TEXT
+    - bssid:
+      :source: networkenv.bssid
+      :type: TEXT
+    - rtt0:
+      :source: rtt.rtt0.result.rtt
+      :type: DOUBLE PRECISION ARRAY
+    - rtt1:
+      :source: rtt.rtt1.result.rtt
+      :type: DOUBLE PRECISION ARRAY
+    - rtt2:
+      :source: rtt.rtt2.result.rtt
+      :type: DOUBLE PRECISION ARRAY
+    - rtt3:
+      :source: rtt.rtt3.result.rtt
+      :type: DOUBLE PRECISION ARRAY
+    - rttx:
+      :source: rtt.rttx.result.rtt
+      :type: DOUBLE PRECISION ARRAY
+    - rtt_host:
+      :source: rtt.rtt_host.result.rtt
+      :type: DOUBLE PRECISION ARRAY
+    # - min:
+    #   :source: rtt.rtt1.result.stats.min
+    #   :type: DOUBLE PRECISION
+    # - max:
+    #   :source: rtt.rtt1.result.stats.max
+    #   :type: DOUBLE PRECISION
+    # - mean:
+    #   :source: rtt.rtt1.result.stats.mean
+    #   :type: DOUBLE PRECISION
+    # - median:
+    #   :source: rtt.rtt1.result.stats.median
+    #   :type: DOUBLE PRECISION
+    # - std_dev:
+    #   :source: rtt.rtt1.result.stats.std_dev
+    #   :type: DOUBLE PRECISION
+    # - variance:
+    #   :source: rtt.rtt1.result.stats.variance
+    #   :type: DOUBLE PRECISION
+    :meta:
+      :table: browsertest_mapped
+      :extra_props: true

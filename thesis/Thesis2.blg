@@ -1,0 +1,76 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Thesis2.aux
+The style file: abbrv.bst
+Database file #1: thesis.bib
+Warning--I didn't find a database entry for "gavaletz_-browser_2009"
+Warning--to sort, need author, editor, or key in _measurement_????
+Warning--empty author and editor in _measurement_????
+Warning--empty publisher in _measurement_????
+Warning--empty year in _measurement_????
+Warning--empty publisher in alexa_top_2016
+Warning--empty publisher in andrea_denzler_true_2006
+Warning--empty publisher in carlson_network_????
+Warning--empty year in carlson_network_????
+Warning--empty publisher in ieee_rfc4347:_????
+Warning--empty year in ieee_rfc4347:_????
+Warning--empty publisher in ieee_rfc4960:_????
+Warning--empty year in ieee_rfc4960:_????
+Warning--empty publisher in k._drage_sdp-based_2016
+Warning--empty publisher in node.js_node.js_2016
+Warning--empty publisher in ookla_speedtest_????
+Warning--empty year in ookla_speedtest_????
+Warning--empty publisher in r._jesup_info:_2011
+Warning--empty publisher in ripe_understanding_2015
+Warning--empty publisher in ripe_ncc_ripe_????
+Warning--empty year in ripe_ncc_ripe_????
+Warning--empty publisher in w3c_cors_????
+Warning--empty year in w3c_cors_????
+Warning--empty publisher in w3c_webrtc_????
+Warning--empty year in w3c_webrtc_????
+Warning--empty publisher in w3c_websocket_????
+Warning--empty year in w3c_websocket_????
+Warning--empty publisher in w3c_xmlhttprequest_????
+Warning--empty year in w3c_xmlhttprequest_????
+You've used 24 entries,
+            2118 wiz_defined-function locations,
+            584 strings with 6373 characters,
+and the built_in function-call counts, 6424 in all, are:
+= -- 510
+> -- 352
+< -- 0
++ -- 142
+- -- 118
+* -- 419
+:= -- 1091
+add.period$ -- 64
+call.type$ -- 24
+change.case$ -- 115
+chr.to.int$ -- 0
+cite$ -- 52
+duplicate$ -- 291
+empty$ -- 567
+format.name$ -- 118
+if$ -- 1304
+int.to.chr$ -- 0
+int.to.str$ -- 24
+missing$ -- 37
+newline$ -- 115
+num.names$ -- 46
+pop$ -- 260
+preamble$ -- 1
+purify$ -- 107
+quote$ -- 0
+skip$ -- 143
+stack$ -- 0
+substring$ -- 120
+swap$ -- 30
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 64
+warning$ -- 28
+while$ -- 46
+width$ -- 26
+write$ -- 210
+(There were 29 warnings)

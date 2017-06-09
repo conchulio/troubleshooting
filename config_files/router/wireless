@@ -1,0 +1,35 @@
+
+config wifi-device 'radio0'
+	option type 'mac80211'
+	option hwmode '11g'
+	option path 'pci0000:00/0000:00:11.0'
+	option htmode 'HT20'
+	option channel 'auto'
+	option txpower '20'
+	option country 'FR'
+
+config wifi-iface
+	option device 'radio0'
+	option mode 'ap'
+	option ssid 'router'
+	option encryption 'psk2'
+	option key 'internet'
+	option disabled '1'
+
+config wifi-device 'radio1'
+	option type 'mac80211'
+	option hwmode '11a'
+	option path 'pci0000:00/0000:00:12.0'
+	option htmode 'HT40'
+	option txpower '17'
+	option country 'FR'
+	option channel '52'
+
+config wifi-iface
+	option device 'radio1'
+	option mode 'ap'
+	option ssid 'router'
+	option key 'internet'
+	option network 'lan'
+	option encryption 'psk2'
+

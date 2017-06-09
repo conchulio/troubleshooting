@@ -1,0 +1,162 @@
+html, body {
+  height: 100%;
+}
+
+/*.floater {
+    float: left;
+    height: 10%;
+    width: 100%;
+}*/
+
+.all-container {
+  /*position: relative;*/
+  height: 25%;
+  width: 100%;
+  position: absolute;
+  /*display: none;*/
+}
+
+.main-div {
+  /*clear: both;*/
+  text-align: center;
+  padding-top: 15px;
+  /*vertical-align: middle;*/
+  /*height: 100%;*/
+}
+
+.wifi-results-div {
+  text-align: initial;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.wifi-results-div .progress {
+  width: 80%;
+}
+
+/*.inner-raw-results-div {
+  vertical-align: top;
+  padding-left: 10px;
+  padding-right: 10px;
+  width: 25%;
+  height: 100%;
+  text-align: initial;
+  display: inline-block;
+}*/
+
+/*h1 {
+  padding-left: 10px;
+  text-align: initial;
+}*/
+
+ul {
+  text-align: initial;
+}
+
+.interpretation {
+  font-weight: bold;
+}
+
+.interpretation-difference .better, .global-comparison-list .better {
+  color: green;
+}
+
+.interpretation-difference .worse, .global-comparison-list .worse {
+  color: darkred;
+}
+
+.measurement-interval {
+  margin-right: 5px;
+}
+
+/*.inner-raw-results-div * {
+  text-align: center;
+}*/
+
+/* Stuff for graph with all network nodes */
+.canvas, .canvas-container {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+
+/*body {
+  z-index: -3;
+}
+
+.canvas-container {
+  z-index: -2;
+}
+
+.canvas {
+  z-index: -1;
+}*/
+
+svg.net-graph .canvas {
+    fill: none;
+    pointer-events: all;
+    /*stroke: #000;
+    stroke-width: 1.5px;*/
+}
+
+svg.net-graph .edge {
+    /*stroke: darkgray;*/
+    stroke-width: 10.0px;
+}
+
+/*svg.net-graph .wifi-edge {
+    stroke: black;
+    stroke-width: 2.0px;
+    stroke-dasharray: 3,3;
+}*/
+
+svg.net-graph .label {
+  pointer-events: none;
+  font: 18px sans-serif;
+  fill: black;
+}
+
+svg.net-graph .node {
+  fill: darkgray;
+}
+
+svg.net-graph .node.broken {
+  fill: darkred;
+}
+
+/* node base */
+/*svg.net-graph .node {
+    fill: #98abc5;
+    stroke: #0A0545;
+    stroke-width: 0.5px;
+}*/
+
+/* localhost */
+/*svg.net-graph .localhost-node {
+    fill: darkred;
+}*/
+
+/* other host */
+/*svg.net-graph .peer-node {
+    fill: crimson;
+}*/
+
+/* other host, rpc available */
+/*svg.net-graph .rpc-peer-node {
+    fill: #7b6888;
+}*/
+
+/* gateway */
+/*svg.net-graph .gw-node {
+    fill: forestgreen;
+}*/
+
+/* gateway, rpc */
+/*svg.net-graph .rpc-gw-node {
+    fill: limegreen;
+}*/
+
+/* internet nodes */
+/*svg.net-graph .i-node {
+    fill: limegreen;
+}*/
